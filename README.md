@@ -1,6 +1,6 @@
 # Random Dad Jokes using React
 > Fetch random jokes using the icanhazdadjoke API.
-> Live demo [_here_](https://codesandbox.io/s/github/iPankajKr/dad-jokes-react). 
+> Live demo [_here_](https://shmd4.csb.app/). 
 
 ## Table of Contents
 * [General Info](#general-information)
